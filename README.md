@@ -32,7 +32,7 @@ Website Tracking Tool adalah aplikasi web **yang menyamar sebagai layanan shortl
 
 1. Buka file:
    ```
-   src/interagion/supabase/client.ts
+   src/integrations/supabase/client.ts
    ```
 
 2. Temukan baris berikut:
