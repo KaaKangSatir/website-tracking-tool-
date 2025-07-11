@@ -1,0 +1,29 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/generator",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/dashboard/shortcode",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/dashboard/tracking",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/dashboard/(.*)",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/s/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
