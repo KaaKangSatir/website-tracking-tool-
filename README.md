@@ -23,7 +23,7 @@ Website Tracking Tool adalah aplikasi web untuk melacak aktivitas pengguna secar
    ```
 
 4. Buka browser dan akses:
-   [http://localhost:3000](http://localhost:3000)
+   [http://localhost:8080](http://localhost:8080)
 
 ## 🔐 Cara Mengganti API Key Supabase
 
